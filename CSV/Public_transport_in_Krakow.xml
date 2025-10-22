@@ -1,0 +1,31 @@
+<Public_transport_in_Krakow>
+    <Bus> Bus
+        <Price>2zl</Price>  
+        <Speed>20km/h</Speed>
+        <Size>Big</Size>
+        <Comfortability>Average Comfortability</Comfortability>  
+        <Frequency>Once every 10 min</Frequency>
+    </Bus>
+    <Tram>
+        <Price>3zl</Price>
+        <Speed>15km/h<Speed>
+        <Size>Big</Size>
+        <Comfortability>Low Comfortability</Comfortability>
+        <Frequency>Once every 20 min</Frequency>
+    </Tram>
+    <Electro_Bus>
+        <Price>2zl</Price>  
+        <Speed>16km/h</Speed>
+        <Size>Big</Size>
+        <Comfortability>Average Comfortability</Comfortability>  
+        <Frequency>Once every 12 min</Frequency>  
+    </Electro_Bus>
+
+    <Train>
+        <Price>10zl</Price>
+        <Speed>60km/h<Speed>
+        <Size>Large</Size>
+        <Comfortability>High Comfortability</Comfortability>
+        <Frequency>Once every 60 min</Frequency>
+    </Train>
+</Public_transport_in_Krakow>

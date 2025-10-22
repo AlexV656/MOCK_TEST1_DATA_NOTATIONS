@@ -1,0 +1,6 @@
+Bus,Tram,Electro_Bus,Train
+2zl,3zl,2zl,10zl
+20km/h,15km/h,16km/h,60km/h
+Big,Big,Big,Large
+Average Comfortability,Low Comfortability,Average Comfortability,High Comfortability
+Once every 10 min,Once every 20 min,Once every 12 min,Once every 60 min
